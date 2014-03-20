@@ -17,13 +17,27 @@
 		4F04025818D4BE1B009E8CAA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F04025618D4BE1B009E8CAA /* Main.storyboard */; };
 		4F04025B18D4BE1B009E8CAA /* flanrybirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F04025A18D4BE1B009E8CAA /* flanrybirdViewController.m */; };
 		4F04025E18D4BE1B009E8CAA /* flanrybirdMyScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F04025D18D4BE1B009E8CAA /* flanrybirdMyScene.m */; };
-		4F04026018D4BE1B009E8CAA /* Spaceship.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F04025F18D4BE1B009E8CAA /* Spaceship.png */; };
 		4F04026218D4BE1B009E8CAA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F04026118D4BE1B009E8CAA /* Images.xcassets */; };
 		4F04026918D4BE1B009E8CAA /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4F04026818D4BE1B009E8CAA /* XCTest.framework */; };
 		4F04026A18D4BE1B009E8CAA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4F04024218D4BE1B009E8CAA /* Foundation.framework */; };
 		4F04026B18D4BE1B009E8CAA /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4F04024618D4BE1B009E8CAA /* UIKit.framework */; };
 		4F04027318D4BE1C009E8CAA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4F04027118D4BE1C009E8CAA /* InfoPlist.strings */; };
 		4F04027518D4BE1C009E8CAA /* Flanry_BirdTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F04027418D4BE1C009E8CAA /* Flanry_BirdTests.m */; };
+		4F04028018D4BE6F009E8CAA /* welcome.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F04027F18D4BE6F009E8CAA /* welcome.m */; };
+		4F04028318D4BECF009E8CAA /* fail.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F04028218D4BECF009E8CAA /* fail.m */; };
+		4F04028718D4C029009E8CAA /* Angrybird.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F04028618D4C029009E8CAA /* Angrybird.png */; };
+		4F04028918D4C035009E8CAA /* ground.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F04028818D4C035009E8CAA /* ground.png */; };
+		4F04029118D4C6CA009E8CAA /* pipe.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F04029018D4C6CA009E8CAA /* pipe.png */; };
+		4F2724B118D68FE300A8D891 /* start_update.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F2724B018D68FE300A8D891 /* start_update.png */; };
+		4F32869718D6CBA900A3BA91 /* bg_update.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F32869618D6CBA900A3BA91 /* bg_update.png */; };
+		4F32869B18D6D35A00A3BA91 /* Bird.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F32869A18D6D35A00A3BA91 /* Bird.png */; };
+		4F5C82FF18D61EF0009D01EC /* title.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F5C82FE18D61EF0009D01EC /* title.png */; };
+		4F5C830118D61F1C009D01EC /* title_update.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F5C830018D61F1B009D01EC /* title_update.png */; };
+		4F653D4118D6CA95007B587F /* bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F653D4018D6CA95007B587F /* bg.png */; };
+		4F653D4318D6CB66007B587F /* bg_blur.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F653D4218D6CB66007B587F /* bg_blur.png */; };
+		4F656FEE18D5F1430032E5EB /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F656FED18D5F1430032E5EB /* icon.png */; };
+		4FC28C1B18D60602009AFD27 /* start2.png in Resources */ = {isa = PBXBuildFile; fileRef = 4FC28C1A18D60602009AFD27 /* start2.png */; };
+		4FDEA5E518D68CA8004C9A1F /* start.png in Resources */ = {isa = PBXBuildFile; fileRef = 4FDEA5E418D68CA8004C9A1F /* start.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,13 +67,29 @@
 		4F04025A18D4BE1B009E8CAA /* flanrybirdViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = flanrybirdViewController.m; sourceTree = "<group>"; };
 		4F04025C18D4BE1B009E8CAA /* flanrybirdMyScene.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = flanrybirdMyScene.h; sourceTree = "<group>"; };
 		4F04025D18D4BE1B009E8CAA /* flanrybirdMyScene.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = flanrybirdMyScene.m; sourceTree = "<group>"; };
-		4F04025F18D4BE1B009E8CAA /* Spaceship.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Spaceship.png; sourceTree = "<group>"; };
 		4F04026118D4BE1B009E8CAA /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		4F04026718D4BE1B009E8CAA /* Flanry BirdTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Flanry BirdTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F04026818D4BE1B009E8CAA /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		4F04027018D4BE1C009E8CAA /* Flanry BirdTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Flanry BirdTests-Info.plist"; sourceTree = "<group>"; };
 		4F04027218D4BE1C009E8CAA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4F04027418D4BE1C009E8CAA /* Flanry_BirdTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Flanry_BirdTests.m; sourceTree = "<group>"; };
+		4F04027E18D4BE6F009E8CAA /* welcome.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = welcome.h; sourceTree = "<group>"; };
+		4F04027F18D4BE6F009E8CAA /* welcome.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = welcome.m; sourceTree = "<group>"; };
+		4F04028118D4BECF009E8CAA /* fail.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = fail.h; sourceTree = "<group>"; };
+		4F04028218D4BECF009E8CAA /* fail.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = fail.m; sourceTree = "<group>"; };
+		4F04028618D4C029009E8CAA /* Angrybird.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Angrybird.png; sourceTree = "<group>"; };
+		4F04028818D4C035009E8CAA /* ground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ground.png; sourceTree = "<group>"; };
+		4F04029018D4C6CA009E8CAA /* pipe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pipe.png; sourceTree = "<group>"; };
+		4F2724B018D68FE300A8D891 /* start_update.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = start_update.png; sourceTree = "<group>"; };
+		4F32869618D6CBA900A3BA91 /* bg_update.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg_update.png; sourceTree = "<group>"; };
+		4F32869A18D6D35A00A3BA91 /* Bird.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Bird.png; sourceTree = "<group>"; };
+		4F5C82FE18D61EF0009D01EC /* title.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = title.png; sourceTree = "<group>"; };
+		4F5C830018D61F1B009D01EC /* title_update.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = title_update.png; sourceTree = "<group>"; };
+		4F653D4018D6CA95007B587F /* bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg.png; sourceTree = "<group>"; };
+		4F653D4218D6CB66007B587F /* bg_blur.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg_blur.png; sourceTree = "<group>"; };
+		4F656FED18D5F1430032E5EB /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		4FC28C1A18D60602009AFD27 /* start2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = start2.png; sourceTree = "<group>"; };
+		4FDEA5E418D68CA8004C9A1F /* start.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = start.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,9 +156,23 @@
 				4F04025618D4BE1B009E8CAA /* Main.storyboard */,
 				4F04025918D4BE1B009E8CAA /* flanrybirdViewController.h */,
 				4F04025A18D4BE1B009E8CAA /* flanrybirdViewController.m */,
+				4F04027E18D4BE6F009E8CAA /* welcome.h */,
+				4F04027F18D4BE6F009E8CAA /* welcome.m */,
 				4F04025C18D4BE1B009E8CAA /* flanrybirdMyScene.h */,
 				4F04025D18D4BE1B009E8CAA /* flanrybirdMyScene.m */,
-				4F04025F18D4BE1B009E8CAA /* Spaceship.png */,
+				4F04028118D4BECF009E8CAA /* fail.h */,
+				4F04028218D4BECF009E8CAA /* fail.m */,
+				4F04028618D4C029009E8CAA /* Angrybird.png */,
+				4FDEA5E418D68CA8004C9A1F /* start.png */,
+				4F04028818D4C035009E8CAA /* ground.png */,
+				4FC28C1A18D60602009AFD27 /* start2.png */,
+				4F2724B018D68FE300A8D891 /* start_update.png */,
+				4F04029018D4C6CA009E8CAA /* pipe.png */,
+				4F5C82FE18D61EF0009D01EC /* title.png */,
+				4F653D4018D6CA95007B587F /* bg.png */,
+				4F32869618D6CBA900A3BA91 /* bg_update.png */,
+				4F5C830018D61F1B009D01EC /* title_update.png */,
+				4F32869A18D6D35A00A3BA91 /* Bird.png */,
 				4F04026118D4BE1B009E8CAA /* Images.xcassets */,
 				4F04024B18D4BE1B009E8CAA /* Supporting Files */,
 			);
@@ -139,7 +183,9 @@
 			isa = PBXGroup;
 			children = (
 				4F04024C18D4BE1B009E8CAA /* Flanry Bird-Info.plist */,
+				4F656FED18D5F1430032E5EB /* icon.png */,
 				4F04024D18D4BE1B009E8CAA /* InfoPlist.strings */,
+				4F653D4218D6CB66007B587F /* bg_blur.png */,
 				4F04025018D4BE1B009E8CAA /* main.m */,
 				4F04025218D4BE1B009E8CAA /* Flanry Bird-Prefix.pch */,
 			);
@@ -241,10 +287,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4F32869718D6CBA900A3BA91 /* bg_update.png in Resources */,
+				4F04028918D4C035009E8CAA /* ground.png in Resources */,
+				4F04029118D4C6CA009E8CAA /* pipe.png in Resources */,
+				4F5C82FF18D61EF0009D01EC /* title.png in Resources */,
 				4F04024F18D4BE1B009E8CAA /* InfoPlist.strings in Resources */,
+				4F653D4118D6CA95007B587F /* bg.png in Resources */,
+				4F656FEE18D5F1430032E5EB /* icon.png in Resources */,
 				4F04026218D4BE1B009E8CAA /* Images.xcassets in Resources */,
-				4F04026018D4BE1B009E8CAA /* Spaceship.png in Resources */,
+				4F653D4318D6CB66007B587F /* bg_blur.png in Resources */,
+				4F2724B118D68FE300A8D891 /* start_update.png in Resources */,
+				4F04028718D4C029009E8CAA /* Angrybird.png in Resources */,
 				4F04025818D4BE1B009E8CAA /* Main.storyboard in Resources */,
+				4F32869B18D6D35A00A3BA91 /* Bird.png in Resources */,
+				4F5C830118D61F1C009D01EC /* title_update.png in Resources */,
+				4FC28C1B18D60602009AFD27 /* start2.png in Resources */,
+				4FDEA5E518D68CA8004C9A1F /* start.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,6 +325,8 @@
 				4F04025118D4BE1B009E8CAA /* main.m in Sources */,
 				4F04025518D4BE1B009E8CAA /* flanrybirdAppDelegate.m in Sources */,
 				4F04025E18D4BE1B009E8CAA /* flanrybirdMyScene.m in Sources */,
+				4F04028018D4BE6F009E8CAA /* welcome.m in Sources */,
+				4F04028318D4BECF009E8CAA /* fail.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -473,6 +533,7 @@
 				4F04027A18D4BE1C009E8CAA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4F04027B18D4BE1C009E8CAA /* Build configuration list for PBXNativeTarget "Flanry BirdTests" */ = {
 			isa = XCConfigurationList;
@@ -481,6 +542,7 @@
 				4F04027D18D4BE1C009E8CAA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

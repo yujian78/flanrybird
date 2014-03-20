@@ -8,6 +8,7 @@
 
 #import "flanrybirdViewController.h"
 #import "flanrybirdMyScene.h"
+#import "welcome.h"
 
 @implementation flanrybirdViewController
 
@@ -21,7 +22,7 @@
     skView.showsNodeCount = YES;
     
     // Create and configure the scene.
-    SKScene * scene = [flanrybirdMyScene sceneWithSize:skView.bounds.size];
+    SKScene * scene = [welcome sceneWithSize:skView.bounds.size];
     scene.scaleMode = SKSceneScaleModeAspectFill;
     
     // Present the scene.
